@@ -1,0 +1,10 @@
+main menu bar :
+Home3
+services [ 4 sections ] 
+projects [ project grid3 + single project  ]
+polices  [ 4 sections ]
+products [ shop grid side right bar + shop single product ]
+contact 
+blog X
+features X
+logo  [ change ]
